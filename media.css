@@ -1,0 +1,135 @@
+@media(max-width:1000px){
+    .inform{
+        display: grid;
+        grid-column: 20px;
+        justify-content: center;
+        margin: auto;
+    }
+    .container-fluid{
+        width: 100%;
+    }
+    .wsd{
+        width: 100%;
+        /* padding: 5px; */
+        justify-content: center;
+        text-align: center;
+        margin-left: 5%;
+}
+.us{
+    text-align: center;
+}
+.fresh{
+    font-size: 20px;
+}
+.kaissy{
+    text-align: center;
+}
+.thumba{
+    margin: 10px auto;
+}
+.imgchef{
+    margin: 10px auto;
+}
+.informing{
+    display: grid;
+    justify-content: center;
+}
+.video{
+    width: 100%;
+}
+.img{
+    display: grid;
+    grid-column: 20px;
+    padding: 10px;
+}
+.chefa{
+    width: 80% ;
+}
+.divreserve{
+    display: flex;
+    flex-wrap: wrap;
+    /* padding: 10px; */
+    margin: 0%;
+    width: 100%;
+}
+.make{
+    margin: 0%;
+    /* justify-content: center; */
+    width: 50%;
+    /* margin-right: 60px; */
+}
+.v{
+    /* justify-content: center; */
+    /* margin: 30%; */
+    /* margin-right: 60%; */
+    /* padding: 10px; */
+    width: 130%;
+    margin-right:auto ;
+}
+.pho{
+    /* width: 150%; */
+    /* margin: auto; */
+    justify-content: center;
+    margin: 10px auto;
+    width: 100%;
+    justify-content: center;
+    /* margin-left: 50px; */
+
+}
+ 
+  .informabout{
+    /* justify-content: center; */
+    /* padding: 20px; */
+    /* margin-right: 60px; */
+    justify-content: center;
+    /* margin: 20px auto; */
+    padding: 50px;
+    display: grid;
+    margin-left: 50px;
+  }
+  .signup{
+    padding: 0%;
+    width: 90%;
+    /* margin: 20px auto; */
+    /* display: block; */
+    padding: 50px;
+    justify-content: center;
+    /* margin-left: 5%; */
+  }
+  .maintable{
+    display: grid;
+    /* padding: 5px; */
+    grid-column: 20px;
+  }
+  .all{
+    display: grid;
+    width: 100%;
+  }
+  .social{
+    display: grid;
+    padding: 50px;
+  }
+  .media,.white,.copy{
+    margin: 13px auto;
+  }
+  
+  
+  .copy{
+    width: 100%;
+  }
+  .red{
+    height: 70px;
+    /* margin-bottom: 50px; */
+  }
+  .sald{
+    display: grid;
+  }
+  .lorem{
+    font-size: 15px;
+    padding: 5px;
+  }
+  .diner{
+    justify-content: center;
+    display: grid;
+  }
+}

@@ -1,0 +1,255 @@
+.carousel-inner{
+    width: 10px;
+    /* height: 100%; */
+    /* position: fixed */
+   
+}
+
+.navbar-nav{
+    margin-left: auto;
+    flex-wrap: wrap;
+}
+.grida{
+    display: grid;
+}
+.container-fluid{
+    /* overflow: hidden; */
+  background-color: white;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  display: flex;
+  padding: 20px;
+
+}
+.cafe{
+    background-color: rgb(235, 127, 127);
+    text-align: center;
+    border: 2px solid (235, 127, 127) ;
+    color: white;
+    padding: 70px;
+    margin: 5px auto;
+}
+.reserve{
+    border-radius: 5px;
+    border: 1px solid white;
+    padding: 10px;
+}
+.informimg{
+    display: flex;
+    padding: 20px;
+}
+.us{
+    color: red;
+}
+.inform{
+     display: flex;
+    justify-content: space-evenly;
+    margin: auto;
+    padding: 10%;
+}
+.m{
+    margin-left: 50px;
+}
+.menu{
+    display: flex;
+    /* width: 100px; */
+}
+.sa{
+    display: flex;
+    padding: 10px; 
+    justify-content: space-around;
+}
+.quality{
+    color: black ;
+}
+.ck{
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.divchef{
+    text-align: center;
+    padding: 50px;
+}
+.ca{
+    color: red;
+    /* background-color: red; */
+}
+.imgchef{
+    background-color: white;
+    border: 1px solid rgb(158, 158, 228);
+    padding: 5px;
+    text-align: center;
+    width: fit-content;
+    flex-wrap: wrap;
+}
+.randy{
+    font-size: 25px;
+}
+.img{
+    display: flex;
+    justify-content: space-evenly;
+}
+.pho{
+    border: 2px solid white;
+    background-color: white;
+    border-radius: 10px;
+    text-align: center;
+    width: fit-content;
+    color: black;
+    padding: 20px;
+}
+.divreserve{
+    background-image: url(./reservation-bg.jpg);
+    background-position: 100%;
+    width: fit-content;
+    display: flex;
+    /* margin: 30px; */
+    padding: 50px;
+    /* flex-wrap: wrap; */
+
+}
+.make{
+    color: white;
+    /* margin: 10px; */
+    width: 100%;
+}
+.informabout{
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+    flex-wrap: wrap;
+}
+.divreserve{
+    display: flex;
+    justify-content: space-evenly;
+    /* justify-content: center; */
+    /* margin: auto; */
+    /* width: 80px; */
+    padding: 20px;
+}
+.signup{
+    /* display: flex; */
+    background-color: white;
+    border: 2px solid white;
+    border-radius: 10px;
+    width: fit-content;
+    padding: 30px;
+    justify-content: center;
+    /* flex-wrap: wrap; */
+}
+.text{
+    width: 50%;
+}
+.tr{
+    text-align: center;
+}
+
+
+.maintable{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 10px;
+}
+
+.but{
+    background-color: red;
+    width: 80%;
+    padding: 5px;
+    width: 80px;
+    text-align: center;
+}
+input{
+    padding: 10px;
+    justify-content: space-around;
+}
+.t{
+    width: 100%;
+    padding: 50px;
+}
+.f{
+    background-color: red;
+    padding: 5px;
+    border-radius: 5px;
+    width: 100%;
+    border: 1px solid red;
+    color: white;
+}
+.week{
+    text-align: center;
+}
+.alt{
+    display: flex;
+    width: 40px;
+    margin: auto;
+    justify-content: center;
+    /* justify-content: space-around; */
+}
+.kw{
+    color: red;
+}
+.ip{
+    /* padding: 10px; */
+    margin: auto;
+}
+.diner{
+    display: flex;
+    justify-content: space-evenly;
+}
+.red{
+    background-color: red;
+    border: 2px solid red;
+    padding: 10px;
+    width: fit-content;
+    border-radius: 5px;
+    margin-left: 15px;
+
+}
+  .lorem{
+    display: flex;
+    /* justify-content: space-between; */
+  }  
+  .bn{
+    display: flex;
+    justify-content: space-between;
+    margin-right: 50px;
+  }
+  .lunch{
+    border: 2px solid white;
+    background-color: white;
+    padding: 5px;
+    /* box-shadow: 4px 4px 4px #333; */
+    margin-right: auto;
+
+  }
+  .all{
+    display: flex;
+    justify-content: space-evenly;
+  }
+  .diner{
+    padding: 30px;
+    width: 100%;
+  }
+  .media{
+    display: flex;
+    justify-content: left;
+  }
+  .social{
+    background-color: rgb(235, 108, 108);
+    padding: 50px;
+    border: 2px solid rgb(235, 108, 108) ;
+    display: flex;
+    justify-content: space-around;
+    /* justify-content: center; */
+    width: 100%;
+  }
+  .u{
+    padding: 10px;
+    border-radius: 25px;
+  }
+  .white{
+    justify-content: center;
+  }
+  .copy{
+    justify-content: end;
+  }
